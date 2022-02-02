@@ -58,8 +58,9 @@ se possivel forneça as informações para diferentes plataformas, exemplo Windo
 Meta são as metas informações do desenvolvedor
 
 Seu nome - [@seuTwiter]()
-seu email -[seuemail@gmail.com]()
-Distribuído sobre a licença. Veja ` Licença para mais informações`
 
+seu email -[seuemail@gmail.com]()
+
+Distribuído sobre a licença. Veja ` Licença para mais informações`
 
 [https://github.com/Maia1111/geek-git1.git](https://github.com/Maia1111/geek-git1.git)
